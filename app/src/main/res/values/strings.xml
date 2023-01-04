@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Universities</string>
+    <string name="hae_korkeakouluja">Hae korkeakouluja</string>
+    <string name="asetukset">Asetukset</string>
+    <string name="islanti">Islanti</string>
+    <string name="norja">Norja</string>
+    <string name="ruotsi">Ruotsi</string>
+    <string name="suomi">Suomi</string>
+    <string name="tanska">Tanska</string>
+    <string name="takaisin">Takaisin</string>
+    <string name="aseta_valtio">Aseta valtio</string>
+    <string name="korkeakoulut">Korkeakoulut</string>
+    <string name="valtio">Valtio</string>
+</resources>

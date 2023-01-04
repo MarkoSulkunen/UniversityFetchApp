@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Universities</string>
+    <string name="hae_korkeakouluja">Search universities</string>
+    <string name="asetukset">Settings</string>
+    <string name="islanti">Iceland</string>
+    <string name="norja">Norway</string>
+    <string name="ruotsi">Sweden</string>
+    <string name="suomi">Finland</string>
+    <string name="tanska">Denmark</string>
+    <string name="takaisin">Back</string>
+    <string name="aseta_valtio">Set country</string>
+    <string name="korkeakoulut">Universities</string>
+    <string name="valtio">Country</string>
+</resources>
