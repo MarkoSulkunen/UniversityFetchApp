@@ -4,9 +4,9 @@ School project (10/2022)
 
 An application that searches the names of Nordic universities by state.
 The application uses the universities.hipolabs.com API which contains the information of the world
-from universities. The application uses the Volley library to retrieve the name of the college from api url and displays it in the text field. Localization has been implemented in the application
-also in English. The application contains two activities MainActivity and Settings Activity. In the SettingsActivity, the state whose universities are applied for is selected
-and passed the state name to MainActivity. The application saves the state of the object so that it does not disappear, for example, when turning the screen.
+from universities.
+The application contains two activities MainActivity and Settings Activity. In the SettingsActivity, the state of universities are selected
+and passed to MainActivity.
 
 ![image](https://user-images.githubusercontent.com/112402293/220423196-a48112d1-2350-4c03-889d-021b4557757f.png)
 
